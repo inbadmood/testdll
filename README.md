@@ -5,7 +5,7 @@ testdll
        `return a + b;`</br>
    `}`</br>
 
->`//export Bar`
+>`//export Bar` </br>
 `func Bar() {`</br>
    ` fmt.Println("I am bar, not foo!")`</br>
 `}`</br>
